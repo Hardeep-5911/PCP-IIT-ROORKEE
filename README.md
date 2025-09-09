@@ -1,6 +1,10 @@
 ## PCP IIT ROORKEE COLLAB LINK
    Following are the collab links 
 
+- # Linux 
+   - https://docs.google.com/document/d/1KuoAdLJd8XFcNMltJBsOWKKMedFCb9aF9xUuaNZ-JEc/edit?tab=t.0
+- # GitHub
+   - https://docs.google.com/document/d/174b70tNV-loufr2P-AErszeJZuBo4pJjDtpAieK1AV8/edit?tab=t.0
 - # Python
    - The collab created by Niyati Mam 
       - https://colab.research.google.com/drive/1sv4b8IsVh85nunu-ePqvigVjeyWlSskd#scrollTo=_1MHBHfH6nDi
