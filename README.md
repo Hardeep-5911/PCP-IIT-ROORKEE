@@ -76,3 +76,14 @@
   #  Linear Regression Theory
   - By IIT Prof - Vivek Kanhangad
   - Link - https://drive.google.com/drive/folders/1br6Aevc4MfAGrYhvsd5oODX-EgjWhzbu
+  - Linear Regression Handson - https://colab.research.google.com/drive/1Xow5HtAYYCyLxEU8UT7FRBGnx1028sEf?usp=sharing
+  - Desmos Graph - https://www.desmos.com/calculator/1jkygr13el
+  # Logistic Regression
+  - By - Vivek Kanhangad
+  - Theory Link - https://drive.google.com/drive/folders/1ZQSyUD2IDHUcL3ZzuJYqWdO-oU0fVbdZ
+  - Handson Link - https://colab.research.google.com/drive/11I8eaogPLRJn2Wm5eaE-5-En0slu7kUt?usp=sharing#scrollTo=utJRAO0OTPPK
+  # Decision Tree
+  - Theory - https://drive.google.com/drive/folders/1zY8qygB10RVpSz9fHGSBg4UkvqPJN2HG
+  - Customer Churn Project Statements- https://docs.google.com/document/d/1T7zcGL97Yp2gv7NPC7555OT_qUvDWe89gkxyvKkHfgg/edit?tab=t.0
+  - Customer Churn Project Handson - https://colab.research.google.com/drive/1DJgOriuHsN32aAza2EhYzQYbx1QZDeG6?usp=sharing
+  - Decision Tree Handson - https://colab.research.google.com/drive/11Us5_terUeb6IJJ86iwsHPOmAXNC_hIz?usp=sharing#scrollTo=9BOOn6tMfx70
