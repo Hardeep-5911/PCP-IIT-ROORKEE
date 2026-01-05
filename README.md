@@ -87,3 +87,4 @@
   - Customer Churn Project Statements- https://docs.google.com/document/d/1T7zcGL97Yp2gv7NPC7555OT_qUvDWe89gkxyvKkHfgg/edit?tab=t.0
   - Customer Churn Project Handson - https://colab.research.google.com/drive/1DJgOriuHsN32aAza2EhYzQYbx1QZDeG6?usp=sharing
   - Decision Tree Handson - https://colab.research.google.com/drive/11Us5_terUeb6IJJ86iwsHPOmAXNC_hIz?usp=sharing#scrollTo=9BOOn6tMfx70
+  - Census Income Handson - https://colab.research.google.com/drive/1O9bliDvWPu6TXwZtTFo5nL73d54MC6rl?usp=sharing#scrollTo=VCjb0spN5lT5
